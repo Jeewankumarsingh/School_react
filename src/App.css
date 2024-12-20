@@ -2,6 +2,47 @@
     background-color: #ffa901;
 }
 
+.sidebar{
+    background-color: #042954;
+}
+
 .sidebar a i{
+    color: #ffa901;
+}
+
+.sidebar hr{
+    margin: 0;
+    border: 1px solid #051f3e;
+    opacity: 5;
+}
+
+.Navbar{
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 15px 0px rgba(0,0, 0, 0.2);
+}
+
+.Navbar .navbar2{
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.navbar2 .search{
+    padding-left: 20px;
+}
+
+.Navbar input{
+    outline: none;
+    border: none;
+}
+
+.Navbar .icon{
+    padding-right: 20px;
+    gap: 15px;
+    justify-content: end;
+    font-size: 18px;
+}
+
+.Navbar .bi-globe-central-south-asia{
     color: #ffa901;
 }
